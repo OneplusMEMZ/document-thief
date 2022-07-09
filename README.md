@@ -7,6 +7,8 @@
 # 鸣谢
 这个项目引用了不尽其数的csdn上各位用户的整个或部分代码，在此无法将他们一一列出，请谅解。
 并感谢他们对这个项目的支持。
+# 加入QQ群
+(加入QQ群)[https://jq.qq.com/?_wv=1027&k=yot5c7ME]
 # 赞助
 如果您真心诚意的想赞助这个可怜的初中屑的话，那么十分感谢！！！
 ![赞助](https://user-images.githubusercontent.com/107287093/178108345-504200ba-efd6-4c6a-87d5-bf56d8fdfeaa.jpg)
